@@ -41,24 +41,6 @@
 | 🧭 | exploring the coastline between SPA comfort and SSR superpowers |
 | 🌅 | best code written during golden hour |
 
-### 📈 the numbers
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Armas0n&theme=sunset" width="49%" alt="profile details"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Armas0n&theme=sunset" width="49%" alt="repos per language"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Armas0n&theme=sunset" width="49%" alt="most commit language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Armas0n&theme=sunset" width="49%" alt="stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Armas0n&theme=sunset" width="82%" alt="productive time"/>
-</div>
-
----
-
 <div align="center">
   <img src="./wave.svg" width="100%" alt="waves"/>
   <br/>
