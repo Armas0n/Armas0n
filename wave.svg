@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="44" viewBox="0 0 880 44" role="img" aria-label="waves">
+  <!-- back stroke, drifting right -->
+  <path fill="none" stroke="#B95C8F" stroke-width="3" stroke-linecap="round" opacity="0.55"
+        d="M -240 14 Q -210 10 -180 14 T -120 14 T -60 14 T 0 14 T 60 14 T 120 14 T 180 14 T 240 14 T 300 14 T 360 14 T 420 14 T 480 14 T 540 14 T 600 14 T 660 14 T 720 14 T 780 14 T 840 14 T 900 14 T 960 14 T 1020 14 T 1080 14 T 1140 14">
+    <animateTransform attributeName="transform" type="translate" from="-120 0" to="0 0" dur="7s" repeatCount="indefinite"/>
+  </path>
+  <!-- middle stroke, drifting left -->
+  <path fill="none" stroke="#FF9A5C" stroke-width="3" stroke-linecap="round" opacity="0.9"
+        d="M -240 22 Q -210 17 -180 22 T -120 22 T -60 22 T 0 22 T 60 22 T 120 22 T 180 22 T 240 22 T 300 22 T 360 22 T 420 22 T 480 22 T 540 22 T 600 22 T 660 22 T 720 22 T 780 22 T 840 22 T 900 22 T 960 22 T 1020 22 T 1080 22 T 1140 22">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-120 0" dur="5.5s" repeatCount="indefinite"/>
+  </path>
+  <!-- front stroke, drifting right -->
+  <path fill="none" stroke="#55286E" stroke-width="3.5" stroke-linecap="round" opacity="0.9"
+        d="M -240 31 Q -210 25 -180 31 T -120 31 T -60 31 T 0 31 T 60 31 T 120 31 T 180 31 T 240 31 T 300 31 T 360 31 T 420 31 T 480 31 T 540 31 T 600 31 T 660 31 T 720 31 T 780 31 T 840 31 T 900 31 T 960 31 T 1020 31 T 1080 31 T 1140 31">
+    <animateTransform attributeName="transform" type="translate" from="-120 0" to="0 0" dur="4.5s" repeatCount="indefinite"/>
+  </path>
+</svg>
