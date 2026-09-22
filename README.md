@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=FF9A5C&center=true&vCenter=true&width=640&height=50&lines=hey,+i'm+Adam+%F0%9F%91%8B;i+turn+coffee+into+type-safe+code+%E2%98%95;typescript+%C2%B7+bun+%C2%B7+react+%C2%B7+tanstack;shipping+from+the+shoreline+%F0%9F%8C%B4" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=FF9A5C&center=true&vCenter=true&width=640&height=50&lines=Hey,+I'm+Adam+%F0%9F%91%8B;I+turn+coffee+into+type-safe+code+%E2%98%95;TypeScript+%C2%B7+Bun+%C2%B7+React+%C2%B7+TanStack;Shipping+from+the+shoreline+%F0%9F%8C%B4" alt="typing"/>
 </div>
 
 <div align="center">
@@ -22,21 +22,14 @@
 ### 🧰 the toolbox
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,bun,react,vite,tailwind,git,github,vscode&theme=dark" alt="stack"/>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query"/>
-  <img src="https://img.shields.io/badge/TanStack_Router-FF8A5C?style=flat-square&logo=tanstack&logoColor=white" alt="TanStack Router"/>
-  <img src="https://img.shields.io/badge/TanStack_Table-FFB86B?style=flat-square&logo=tanstack&logoColor=white" alt="TanStack Table"/>
-  <img src="https://img.shields.io/badge/TanStack_Start-E85D9E?style=flat-square&logo=tanstack&logoColor=white" alt="TanStack Start"/>
+  <img src="./stack.svg" width="440" alt="TypeScript · Bun · React · Zustand · Supabase · TanStack · Vite · Tailwind"/>
 </div>
 
 ### 🏝️ currently
 
 | | |
 |---|---|
-| 🔨 | brewing [**elixirs-app**](https://github.com/Armas0n/elixirs-app) — a little potion shop, served fresh with TypeScript |
+| 🔨 | building great stuff — more shipping soon 👀 |
 | 📚 | deep-diving the TanStack ecosystem — Router, Query, Table, Start |
 | 🧭 | exploring the coastline between SPA comfort and SSR superpowers |
 | 🌅 | best code written during golden hour |
